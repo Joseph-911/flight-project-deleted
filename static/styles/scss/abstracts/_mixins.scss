@@ -1,0 +1,12 @@
+@mixin breakpoint($breakpoint){
+    @media screen and (max-width: $breakpoint) {
+        @content;
+    }
+}
+
+@mixin flexCenter($direction: row) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: $direction;
+}
