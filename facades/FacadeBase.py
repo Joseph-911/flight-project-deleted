@@ -1,0 +1,2 @@
+class FacadeBase:
+    pass

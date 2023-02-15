@@ -1,0 +1,2 @@
+class AnonymousFacade:
+    pass

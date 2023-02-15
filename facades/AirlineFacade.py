@@ -1,0 +1,2 @@
+class AirlineFacade:
+    pass
