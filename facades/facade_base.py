@@ -4,7 +4,6 @@ class FacadeBase:
 
     def __init__(self):
         self.dal = GenericDAL()
-        pass
     
 
     def get_all_flights(self):
